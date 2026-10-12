@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOT-23-6";1;"USBLC6-2SC6";;;
+2;"R1,R2";"R_0603_1608Metric";2;"5.1k";;;
+3;"C4";"C_0603_1608Metric";1;"4.7uF";;;
+4;"C1";"C_0603_1608Metric";1;"100nF";;;
+5;"J2";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04";;;
+6;"U3";"SOT-23-5";1;"AP2112K-3.3";;;
+7;"C2,C3";"C_0603_1608Metric";2;"1uF";;;
+8;"U2";"SOIC-16_3.9x9.9mm_P1.27mm";1;"CH340C";;;
+9;"F1";"Fuse_1206_3216Metric";1;"500mA";;;
+10;"J1";"USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal";1;"USB_C_Receptacle_USB2.0_16P";;;
